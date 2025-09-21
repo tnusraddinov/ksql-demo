@@ -1,6 +1,11 @@
 # ksql-demo
 ## loyalty program using ksql stream processing 
 
+# Run docker compose file
+```sh
+docker compose -f docker-compose.yml -p ksqldb_demo up -d
+
+```
 
 # Create streams & tables 
 
